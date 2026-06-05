@@ -1,0 +1,19 @@
+14
+maokai 11
+ahri 1
+kindred 9
+caitlyn 3
+pyke 14
+fizz 6
+lillia 10
+blitzcrank 2
+olaf 13
+draven 4
+neeko 12
+ekko 5
+hwei 8
+garen 7
+ahri
+maokai
+jhin
+pyke
